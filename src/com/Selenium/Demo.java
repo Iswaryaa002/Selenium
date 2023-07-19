@@ -14,6 +14,9 @@ public class Demo {
 		
 		driver.manage().window().maximize();
 		driver.manage().window().minimize();
+		driver.manage().window().maximize();
 	}
+	
+	
 
 }
