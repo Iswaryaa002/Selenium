@@ -37,6 +37,7 @@ public class AlertConcept {
 		
 		driver.findElement(By.partialLinkText("Create")).click();
 		}
+	system.out.println("Alert");
 }
 
 		
